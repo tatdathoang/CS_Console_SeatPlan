@@ -1,0 +1,12 @@
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.exe.config
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.exe
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.pdb
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.csprojResolveAssemblyReference.cache
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.exe
+D:\_STUDY\Software Development Technique\Assignment\Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.pdb
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.exe.config
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.exe
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\bin\Debug\PDatHoangP1.pdb
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.csprojResolveAssemblyReference.cache
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.exe
+D:\_STUDY\Software Development Technique\Assignment\Project\Hoang Huu Tat Dat_7827975_Project\PDatHoangP1\PDatHoangP1\obj\Debug\PDatHoangP1.pdb
