@@ -1,4 +1,4 @@
-﻿/*
+﻿/* 
  * Program.cs
  * This program helps user to manage a seat plan with 4 rows and 4 columns.  
  * User can add/remove customer to/from seat plan or automatically fill up the seat plan. 
