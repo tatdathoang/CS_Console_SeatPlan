@@ -9,7 +9,7 @@ The program has a 4 option menu:
 
 All the in correct input from user were handled to make sure the program runs the way it's designed.
 
-![Flowchart](Flow chart.PNG)
+![Flowchart](Flow%20chart.PNG)
 
 ![1](1.PNG)
 
